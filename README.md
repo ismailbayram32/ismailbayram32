@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Selam, ben İsmail Bayram</h1>
+<h3 align="center">Computer Engineering Student | Cybersecurity & Software Development</h3>
 
-<!--
-**ismailbayram32/ismailbayram32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+🎓 Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+🛡️ Siber güvenlik ve yazılım geliştirme alanlarına ilgim var.  
+💻 C, Java ve Python ile projeler geliştiriyorum.  
+📌 Network, Linux ve sistem temellerini güçlendirme sürecindeyim.  
+♟️ Satranç, matematik ve Formula 1 ilgimi çeken alanlardan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Şu an ne yapıyorum?
+- 🛡️ Siber güvenlik temellerini öğreniyorum  
+- 🐧 Linux ve networking bilgisini geliştiriyorum  
+- 🧠 C ile sistem programlama projeleri yazıyorum  
+- 📚 Udemy üzerinden Ethical Hacking + Virtualization dersleri alıyorum  
+- 🛠️ GitHub’ı aktif şekilde portfolyo için kullanıyorum
+
+---
+
+## 🧰 Teknolojiler & Araçlar
+
+### 💻 Diller
+- C
+- Java
+- Python
+
+### 🌐 Networking / Security
+- TCP/IP, Subnetting, Routing Basics
+- Linux (CLI, permissions, services)
+- Virtualization (VMware / VirtualBox)
+- FortiGate Fundamentals
+
+### 🛠️ Tools
+- Git / GitHub
+- Wireshark
+- Nmap
+- Burp Suite (learning)
+- Metasploit (learning)
+
+---
+
+## 📌 Projelerim
+🧩 Bazı projeler:
+- 🔴🟡🔵 **Triversi** — 3 kişilik Reversi oyunu (dinamik board, C)
+- 📚 **Library Automation System (C)** — linked list + CSV tabanlı mini database sistemi
+- 🧮 **Math Expression Tokenizer (C)** — sin/cos/log_x desteğiyle expression parser
+- ✈️ **Airline Management System (Java)** — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem
+
+---
+
+## 🧠 İlgi Alanlarım
+- Cybersecurity
+- System Programming
+- Network Security
+- Software Development
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📫 İletişim
+- 📧 Mail: ismbyrm32@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/ismailbayram32  
+
+---
+
+<h3 align="center">⚡ "Discipline beats motivation."</h3>
