@@ -62,15 +62,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ismailbayram32&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailbayram32&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 ## 📫 İletişim
 - 📧 Mail: ismbyrm32@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/ismailbayram32  
+- 💼 LinkedIn: [linkedin.com/in/ismailbayram32](https://www.linkedin.com/in/ismailbayram32/)  
 
 ---
 
