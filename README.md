@@ -45,7 +45,7 @@
 
 ## 📌 Projelerim
 🧩 Bazı projeler:
-- 🔴 [Triversi (3-Player Reversi)](https://github.com/ismailbayram32/triversi) — 3 kişilik Reversi oyunu (dinamik board, C)  
+- 🔴 [Triversi (3-Player Reversi)](https://github.com/ismailbayram32/triversi-game) — 3 kişilik Reversi oyunu (dinamik board, C)  
 - 📚 [Library Automation System (C)](https://github.com/ismailbayram32/library-automation-system) — linked list + CSV tabanlı mini database sistemi  
 - 🧮 [Numerical Analysis Solver (C)](https://github.com/ismailbayram32/numerical-analysis-solver) — expression parser + sayısal analiz yöntemleriyle denklem çözümü  
 - ✈️ [Airline Management System (Java)](https://github.com/ismailbayram32/airline-management-system) — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem  
