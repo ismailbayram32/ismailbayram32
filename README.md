@@ -49,8 +49,7 @@
 - 📚 [Library Automation System (C)](https://github.com/ismailbayram32/library-automation-system) — linked list + CSV tabanlı mini database sistemi  
 - 🧮 [Numerical Analysis Solver (C)](https://github.com/ismailbayram32/numerical-analysis-solver) — expression parser + sayısal analiz yöntemleriyle denklem çözümü  
 - ✈️ [Airline Management System (Java)](https://github.com/ismailbayram32/airline-management-system) — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem
-- 🚀 [Turkish Language Modeling & Optimizer Benchmark](https://github.com/ismailbayram32/turkish-nlp-modeling)  
-  Comparison of GD, SGD and Adam optimizers using PyTorch on Turkish text modeling experiments.
+- 🚀 [Turkish Language Modeling & Optimizer Benchmark](https://github.com/ismailbayram32/turkish-nlp-modeling) — PyTorch ile Türkçe veri üzerinde GD, SGD ve Adam optimizasyon algoritmalarının karşılaştırılması.
 - 🏊 [42 C Piscine Solutions](https://github.com/ismailbayram32/42-C-Piscine) — 42 Piscine havuz soruları çözümleri  
 - 🤖 [First ROS Project](https://github.com/ismailbayram32/Ilk-Ros-Denemesi) — ROS temelleri ve ilk denemeler
 
