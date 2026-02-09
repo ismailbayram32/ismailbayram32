@@ -47,7 +47,7 @@
 🧩 Bazı projeler:
 - 🔴🟡🔵 **Triversi** — 3 kişilik Reversi oyunu (dinamik board, C)
 - 📚 **Library Automation System (C)** — linked list + CSV tabanlı mini database sistemi
-- 🧮 **Math Expression Tokenizer (C)** — sin/cos/log_x desteğiyle expression parser
+- 🧮 **Math Expression Tokenizer & Numerical Solver (C)** — sin/cos/log_x destekli expression tokenizer + parser, ayrıca sayısal analiz yöntemleriyle denklem çözümü
 - ✈️ **Airline Management System (Java)** — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem
 
 ---
