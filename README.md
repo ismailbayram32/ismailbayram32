@@ -67,5 +67,3 @@
 - 💼 LinkedIn: [linkedin.com/in/ismailbayram32](https://www.linkedin.com/in/ismailbayram32/)  
 
 ---
-
-<h3 align="center">⚡ "Discipline beats motivation."</h3>
