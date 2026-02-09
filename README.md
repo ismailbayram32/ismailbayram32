@@ -45,10 +45,12 @@
 
 ## 📌 Projelerim
 🧩 Bazı projeler:
-- 🔴 **Triversi Game** — 3 kişilik Reversi oyunu (dinamik board, C)
-- 📚 **Library Automation System (C)** — linked list + CSV tabanlı mini database sistemi
-- 🧮 **Math Expression Tokenizer & Numerical Solver (C)** — sin/cos/log_x destekli expression tokenizer + parser, ayrıca sayısal analiz yöntemleriyle denklem çözümü
-- ✈️ **Airline Management System (Java)** — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem
+- 🔴🟡🔵 [Triversi (3-Player Reversi)](https://github.com/ismailbayram32/triversi) — 3 kişilik Reversi oyunu (dinamik board, C)  
+- 📚 [Library Automation System (C)](https://github.com/ismailbayram32/library-automation-system) — linked list + CSV tabanlı mini database sistemi  
+- 🧮 [Numerical Analysis Solver (C)](https://github.com/ismailbayram32/numerical-analysis-solver) — expression parser + sayısal analiz yöntemleriyle denklem çözümü  
+- ✈️ [Airline Management System (Java)](https://github.com/ismailbayram32/Donem_Projesi) — uçuş, yolcu ve rezervasyon yönetimi üzerine Java tabanlı sistem  
+- 🏊 [42 C Piscine Solutions](https://github.com/ismailbayram32/42-C-Piscine) — 42 Piscine havuz soruları çözümleri  
+- 🤖 [First ROS Project](https://github.com/ismailbayram32/Ilk-Ros-Denemesi) — ROS temelleri ve ilk denemeler
 
 ---
 
